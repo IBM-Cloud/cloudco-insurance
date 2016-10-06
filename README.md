@@ -16,7 +16,7 @@ The following projects are leveraged in the overall CloudCo Insurance solution:
 
 | :point_down: Repositories ... Branches :point_right: | master | dev |
 | --- | :--- | :--- |
-| [insurance-bot][bot_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/logistics-wizard-webui) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-bot) |
+| [insurance-bot][bot_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-bot) |
 | [insurance-orders][orders_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-orders.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-orders) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-orders.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-orders) |
 | [insurance-catalog][catalog_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-catalog.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-catalog) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-catalog.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-catalog) |
 | [insurance-bot-dashboard][dashboard_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard) |
@@ -43,3 +43,4 @@ See [License.txt](License.txt) for license information.
 [catalog_github_url]: https://github.com/IBM-Bluemix/insurance-catalog
 [dashboard_github_url]: https://github.com/IBM-Bluemix/insurance-bot-dashboard
 [mobile_github_url]: https://github.com/IBM-Bluemix/insurance-mobile
+[toolchain_github_url]: https://github.com/IBM-Bluemix/insurance-toolchain/tree/new-toolchain
