@@ -1,10 +1,10 @@
-# CloudCo Insurance Overview
+# Cloud Insurance Co. - Overview
 
 **WORK IN PROGRESS**
 
-CloudCo Insurance is a modern insurance company for the 21st century.
+Cloud Insurance Co. is a modern insurance company for the 21st century.
 
-The following projects are leveraged in the overall CloudCo Insurance solution:
+The following projects are leveraged in the overall Cloud Insurance Co. solution:
 
 * [insurance-bot][bot_github_url]
 * [insurance-catalog][catalog_github_url]
@@ -24,7 +24,7 @@ The following projects are leveraged in the overall CloudCo Insurance solution:
 
 ## Deploy
 
-To deploy the full system all at once, check out the [CloudCo Insurance Toolchain][toolchain_github_url]
+To deploy the full system all at once, check out the [Cloud Insurance Co. Toolchain][toolchain_github_url]
 
 ## Architecture
 
