@@ -38,6 +38,10 @@ To deploy the full system all at once, check out the [Cloud Insurance Co. Toolch
 
 See [License.txt](License.txt) for license information.
 
+# Privacy Notice
+
+The application is configured to track deployments to [IBM Bluemix](http://www.ibm.com/cloud-computing/bluemix/) and other Cloud Foundry platforms. Refer to the individual projects to understand what information is tracked and how to disable the tracking.
+
 [bot_github_url]: https://github.com/IBM-Bluemix/insurance-bot
 [orders_github_url]: https://github.com/IBM-Bluemix/insurance-orders
 [catalog_github_url]: https://github.com/IBM-Bluemix/insurance-catalog
