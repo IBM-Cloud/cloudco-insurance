@@ -1,0 +1,18 @@
+[{
+  "repositories": [
+    "IBM-Bluemix/cloudco-insurance",
+    "IBM-Bluemix/insurance-bot",
+    "IBM-Bluemix/insurance-catalog",
+    "IBM-Bluemix/insurance-orders",
+    "IBM-Bluemix/insurance-bot-dashboard",
+    "IBM-Bluemix/insurance-bot-ios",
+    "IBM-Bluemix/insurance-toolchain"
+  ],
+  "milestones": [
+    {
+      "title": "World of Watson conference",
+      "state": "open",
+      "due_on": "2016-10-21T23:59:59Z"
+    }
+  ]
+}]
