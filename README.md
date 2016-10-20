@@ -46,4 +46,4 @@ The application is configured to track deployments to [IBM Bluemix](http://www.i
 [catalog_github_url]: https://github.com/IBM-Bluemix/insurance-catalog
 [dashboard_github_url]: https://github.com/IBM-Bluemix/insurance-bot-dashboard
 [mobile_github_url]: https://github.com/IBM-Bluemix/insurance-bot-ios
-[toolchain_github_url]: https://github.com/IBM-Bluemix/insurance-toolchain/tree/new-toolchain
+[toolchain_github_url]: https://github.com/IBM-Bluemix/insurance-toolchain
