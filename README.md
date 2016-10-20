@@ -27,7 +27,7 @@ To deploy the full system all at once, check out the [Cloud Insurance Co. Toolch
 
 ## Architecture
 
-...
+  ![Architecture Diagram](architecture.png)
 
 ## Related Blog Posts, Videos, etc
 
