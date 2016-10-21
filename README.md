@@ -18,6 +18,7 @@ The following projects are leveraged in the overall Cloud Insurance Co. solution
 | [insurance-orders][orders_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-orders.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-orders) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-orders.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-orders) |
 | [insurance-catalog][catalog_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-catalog.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-catalog) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-catalog.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-catalog) |
 | [insurance-bot-dashboard][dashboard_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard) |
+| [insurance-bot-ios][mobile_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-ios.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot-ios) | - |
 
 ## Deploy
 
