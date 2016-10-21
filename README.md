@@ -1,7 +1,5 @@
 # Cloud Insurance Co. - Overview
 
-**WORK IN PROGRESS**
-
 Cloud Insurance Co. is a modern insurance company for the 21st century.
 
 The following projects are leveraged in the overall Cloud Insurance Co. solution:
@@ -29,9 +27,7 @@ To deploy the full system all at once, check out the [Cloud Insurance Co. Toolch
 
   ![Architecture Diagram](architecture.png)
 
-## Related Blog Posts, Videos, etc
-
-...
+  Visit the [wiki](https://github.com/IBM-Bluemix/cloudco-insurance/wiki) for more details on Cloud Insurance Co. architecture and components.
 
 ## License
 
