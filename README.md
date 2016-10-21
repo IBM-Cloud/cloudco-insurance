@@ -4,11 +4,11 @@ Cloud Insurance Co. is a modern insurance company for the 21st century.
 
 The following projects are leveraged in the overall Cloud Insurance Co. solution:
 
-* [insurance-bot][bot_github_url]
-* [insurance-catalog][catalog_github_url]
-* [insurance-orders][orders_github_url]
-* [insurance-bot-dashboard][dashboard_github_url]
-* [insurance-bot-ios][mobile_github_url]
+* [insurance-catalog][catalog_github_url] - An API to retrieve and update a catalog of insurance policies
+* [insurance-orders][orders_github_url] - An API to retrieve and update a list of insurance policy orders made by customers
+* [insurance-bot][bot_github_url] - UI that provides a chat bot interface for users to query their health benefits and file claims.
+* [insurance-bot-dashboard][dashboard_github_url] - A user interface showing an history of the bot chats for further analysis.
+* [insurance-bot-ios][mobile_github_url] - An iOS application for the chat bot.
 
 ## Code Status
 
