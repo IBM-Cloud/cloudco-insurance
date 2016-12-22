@@ -10,19 +10,19 @@
   ],
   "milestones": [
     {
-      "title": "World of Watson conference",
-      "state": "closed",
-      "due_on": "2016-10-21T23:59:59Z"
-    },
-    {
       "title": "12/15 - Sprint",
-      "state": "open",
+      "state": "closed",
       "due_on": "2016-12-15T23:59:59Z"
     },
     {
       "title": "12/29 - Sprint",
       "state": "open",
       "due_on": "2016-12-29T23:59:59Z"
+    },
+    {
+      "title": "01/12 - Sprint",
+      "state": "open",
+      "due_on": "2017-01-12T23:59:59Z"
     }
   ]
 }]
