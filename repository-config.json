@@ -6,6 +6,7 @@
     "IBM-Bluemix/insurance-orders",
     "IBM-Bluemix/insurance-bot-dashboard",
     "IBM-Bluemix/insurance-bot-ios",
+    "IBM-Bluemix/insurance-bot-android",
     "IBM-Bluemix/insurance-toolchain"
   ],
   "milestones": [

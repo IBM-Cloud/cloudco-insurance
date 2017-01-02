@@ -8,7 +8,8 @@ The following projects are leveraged in the overall Cloud Insurance Co. solution
 * [insurance-orders][orders_github_url] - An API to retrieve and update a list of insurance policy orders made by customers
 * [insurance-bot][bot_github_url] - UI that provides a chat bot interface for users to query their health benefits and file claims.
 * [insurance-bot-dashboard][dashboard_github_url] - A user interface showing an history of the bot chats for further analysis.
-* [insurance-bot-ios][mobile_github_url] - An iOS application for the chat bot.
+* [insurance-bot-ios][ios_github_url] - An iOS application for the chat bot.
+* [insurance-bot-android][android_github_url] - An Android application for the chat bot.
 
 ## Code Status
 
@@ -18,7 +19,8 @@ The following projects are leveraged in the overall Cloud Insurance Co. solution
 | [insurance-orders][orders_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-orders.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-orders) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-orders.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-orders) |
 | [insurance-catalog][catalog_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-catalog.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-catalog) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-catalog.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-catalog) |
 | [insurance-bot-dashboard][dashboard_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard) |
-| [insurance-bot-ios][mobile_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-ios.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot-ios) | - |
+| [insurance-bot-ios][ios_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-ios.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot-ios) | - |
+| [insurance-bot-android][android_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-android.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot-android) | - |
 
 ## Deploy
 
@@ -42,5 +44,6 @@ The application is configured to track deployments to [IBM Bluemix](http://www.i
 [orders_github_url]: https://github.com/IBM-Bluemix/insurance-orders
 [catalog_github_url]: https://github.com/IBM-Bluemix/insurance-catalog
 [dashboard_github_url]: https://github.com/IBM-Bluemix/insurance-bot-dashboard
-[mobile_github_url]: https://github.com/IBM-Bluemix/insurance-bot-ios
+[ios_github_url]: https://github.com/IBM-Bluemix/insurance-bot-ios
+[android_github_url]: https://github.com/IBM-Bluemix/insurance-bot-android
 [toolchain_github_url]: https://github.com/IBM-Bluemix/insurance-toolchain
