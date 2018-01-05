@@ -15,12 +15,12 @@ The following projects are leveraged in the overall Cloud Insurance Co. solution
 
 | :point_down: Repositories ... Branches :point_right: | master | dev |
 | --- | :--- | :--- |
-| [insurance-bot][bot_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-bot) |
-| [insurance-orders][orders_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-orders.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-orders) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-orders.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-orders) |
-| [insurance-catalog][catalog_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-catalog.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-catalog) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-catalog.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-catalog) |
-| [insurance-bot-dashboard][dashboard_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard) | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard.svg?branch=dev)](https://travis-ci.org/IBM-Bluemix/insurance-bot-dashboard) |
-| [insurance-bot-ios][ios_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-ios.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot-ios) | - |
-| [insurance-bot-android][android_github_url] | [![Build Status](https://travis-ci.org/IBM-Bluemix/insurance-bot-android.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/insurance-bot-android) | - |
+| [insurance-bot][bot_github_url] | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot.svg?branch=master)](https://travis-ci.org/IBM-Cloud/insurance-bot) | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot.svg?branch=dev)](https://travis-ci.org/IBM-Cloud/insurance-bot) |
+| [insurance-orders][orders_github_url] | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-orders.svg?branch=master)](https://travis-ci.org/IBM-Cloud/insurance-orders) | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-orders.svg?branch=dev)](https://travis-ci.org/IBM-Cloud/insurance-orders) |
+| [insurance-catalog][catalog_github_url] | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-catalog.svg?branch=master)](https://travis-ci.org/IBM-Cloud/insurance-catalog) | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-catalog.svg?branch=dev)](https://travis-ci.org/IBM-Cloud/insurance-catalog) |
+| [insurance-bot-dashboard][dashboard_github_url] | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot-dashboard.svg?branch=master)](https://travis-ci.org/IBM-Cloud/insurance-bot-dashboard) | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot-dashboard.svg?branch=dev)](https://travis-ci.org/IBM-Cloud/insurance-bot-dashboard) |
+| [insurance-bot-ios][ios_github_url] | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot-ios.svg?branch=master)](https://travis-ci.org/IBM-Cloud/insurance-bot-ios) | - |
+| [insurance-bot-android][android_github_url] | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot-android.svg?branch=master)](https://travis-ci.org/IBM-Cloud/insurance-bot-android) | - |
 
 ## Deploy
 
@@ -30,7 +30,7 @@ To deploy the full system all at once, check out the [Cloud Insurance Co. Toolch
 
   ![Architecture Diagram](architecture.png)
 
-  Visit the [wiki](https://github.com/IBM-Bluemix/cloudco-insurance/wiki) for more details on Cloud Insurance Co. architecture and components.
+  Visit the [wiki](https://github.com/IBM-Cloud/cloudco-insurance/wiki) for more details on Cloud Insurance Co. architecture and components.
 
 ## License
 
@@ -38,12 +38,12 @@ See [License.txt](License.txt) for license information.
 
 # Privacy Notice
 
-The application is configured to track deployments to [IBM Bluemix](http://www.ibm.com/cloud-computing/bluemix/) and other Cloud Foundry platforms. Refer to the individual projects to understand what information is tracked and how to disable the tracking.
+The application is configured to track deployments to [IBM Cloud](http://www.ibm.com/cloud-computing/Cloud/) and other Cloud Foundry platforms. Refer to the individual projects to understand what information is tracked and how to disable the tracking.
 
-[bot_github_url]: https://github.com/IBM-Bluemix/insurance-bot
-[orders_github_url]: https://github.com/IBM-Bluemix/insurance-orders
-[catalog_github_url]: https://github.com/IBM-Bluemix/insurance-catalog
-[dashboard_github_url]: https://github.com/IBM-Bluemix/insurance-bot-dashboard
-[ios_github_url]: https://github.com/IBM-Bluemix/insurance-bot-ios
-[android_github_url]: https://github.com/IBM-Bluemix/insurance-bot-android
-[toolchain_github_url]: https://github.com/IBM-Bluemix/insurance-toolchain
+[bot_github_url]: https://github.com/IBM-Cloud/insurance-bot
+[orders_github_url]: https://github.com/IBM-Cloud/insurance-orders
+[catalog_github_url]: https://github.com/IBM-Cloud/insurance-catalog
+[dashboard_github_url]: https://github.com/IBM-Cloud/insurance-bot-dashboard
+[ios_github_url]: https://github.com/IBM-Cloud/insurance-bot-ios
+[android_github_url]: https://github.com/IBM-Cloud/insurance-bot-android
+[toolchain_github_url]: https://github.com/IBM-Cloud/insurance-toolchain
