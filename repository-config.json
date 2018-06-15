@@ -1,13 +1,13 @@
 [{
   "repositories": [
-    "IBM-Bluemix/cloudco-insurance",
-    "IBM-Bluemix/insurance-bot",
-    "IBM-Bluemix/insurance-catalog",
-    "IBM-Bluemix/insurance-orders",
-    "IBM-Bluemix/insurance-bot-dashboard",
-    "IBM-Bluemix/insurance-bot-ios",
-    "IBM-Bluemix/insurance-bot-android",
-    "IBM-Bluemix/insurance-toolchain"
+    "IBM-Cloud/cloudco-insurance",
+    "IBM-Cloud/insurance-bot",
+    "IBM-Cloud/insurance-catalog",
+    "IBM-Cloud/insurance-orders",
+    "IBM-Cloud/insurance-bot-dashboard",
+    "IBM-Cloud/insurance-bot-ios",
+    "IBM-Cloud/insurance-bot-android",
+    "IBM-Cloud/insurance-toolchain"
   ],
   "milestones": [
     {
