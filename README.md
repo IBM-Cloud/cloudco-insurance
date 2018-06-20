@@ -8,9 +8,6 @@ The following projects are leveraged in the overall Cloud Insurance Co. solution
 * [insurance-bot-dashboard][dashboard_github_url] - A user interface showing an history of the bot chats for further analysis.
 * [insurance-bot-ios][ios_github_url] - An iOS application for the chat bot.
 * [insurance-bot-android][android_github_url] - An Android application for the chat bot.
-* [insurance-catalog][catalog_github_url] - An API to retrieve and update a catalog of insurance policies
-* [insurance-orders][orders_github_url] - An API to retrieve and update a list of insurance policy orders made by customers
-
 
 ## Code Status
 
@@ -20,9 +17,6 @@ The following projects are leveraged in the overall Cloud Insurance Co. solution
 | [insurance-bot-dashboard][dashboard_github_url] | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot-dashboard.svg?branch=master)](https://travis-ci.org/IBM-Cloud/insurance-bot-dashboard) | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot-dashboard.svg?branch=dev)](https://travis-ci.org/IBM-Cloud/insurance-bot-dashboard) |
 | [insurance-bot-ios][ios_github_url] | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot-ios.svg?branch=master)](https://travis-ci.org/IBM-Cloud/insurance-bot-ios) | - |
 | [insurance-bot-android][android_github_url] | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot-android.svg?branch=master)](https://travis-ci.org/IBM-Cloud/insurance-bot-android) | - |
-| [insurance-orders][orders_github_url] | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-orders.svg?branch=master)](https://travis-ci.org/IBM-Cloud/insurance-orders) | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-orders.svg?branch=dev)](https://travis-ci.org/IBM-Cloud/insurance-orders) |
-| [insurance-catalog][catalog_github_url] | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-catalog.svg?branch=master)](https://travis-ci.org/IBM-Cloud/insurance-catalog) | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-catalog.svg?branch=dev)](https://travis-ci.org/IBM-Cloud/insurance-catalog) |
-
 
 ## Deploy
 
@@ -39,8 +33,6 @@ To deploy the full system all at once, check out the [Cloud Insurance Co. Toolch
 See [License.txt](License.txt) for license information.
 
 [bot_github_url]: https://github.com/IBM-Cloud/insurance-bot
-[orders_github_url]: https://github.com/IBM-Cloud/insurance-orders
-[catalog_github_url]: https://github.com/IBM-Cloud/insurance-catalog
 [dashboard_github_url]: https://github.com/IBM-Cloud/insurance-bot-dashboard
 [ios_github_url]: https://github.com/IBM-Cloud/insurance-bot-ios
 [android_github_url]: https://github.com/IBM-Cloud/insurance-bot-android

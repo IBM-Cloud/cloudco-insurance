@@ -2,8 +2,6 @@
   "repositories": [
     "IBM-Cloud/cloudco-insurance",
     "IBM-Cloud/insurance-bot",
-    "IBM-Cloud/insurance-catalog",
-    "IBM-Cloud/insurance-orders",
     "IBM-Cloud/insurance-bot-dashboard",
     "IBM-Cloud/insurance-bot-ios",
     "IBM-Cloud/insurance-bot-android",
