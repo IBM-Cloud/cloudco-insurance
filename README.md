@@ -6,8 +6,6 @@ The following projects are leveraged in the overall Cloud Insurance Co. solution
 
 * [insurance-bot][bot_github_url] - UI that provides a chat bot interface for users to query their health benefits and file claims.
 * [insurance-bot-dashboard][dashboard_github_url] - A user interface showing an history of the bot chats for further analysis.
-* [insurance-bot-ios][ios_github_url] - An iOS application for the chat bot.
-* [insurance-bot-android][android_github_url] - An Android application for the chat bot.
 
 ## Code Status
 
@@ -15,8 +13,6 @@ The following projects are leveraged in the overall Cloud Insurance Co. solution
 | --- | :--- | :--- |
 | [insurance-bot][bot_github_url] | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot.svg?branch=master)](https://travis-ci.org/IBM-Cloud/insurance-bot) | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot.svg?branch=dev)](https://travis-ci.org/IBM-Cloud/insurance-bot) |
 | [insurance-bot-dashboard][dashboard_github_url] | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot-dashboard.svg?branch=master)](https://travis-ci.org/IBM-Cloud/insurance-bot-dashboard) | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot-dashboard.svg?branch=dev)](https://travis-ci.org/IBM-Cloud/insurance-bot-dashboard) |
-| [insurance-bot-ios][ios_github_url] | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot-ios.svg?branch=master)](https://travis-ci.org/IBM-Cloud/insurance-bot-ios) | - |
-| [insurance-bot-android][android_github_url] | [![Build Status](https://travis-ci.org/IBM-Cloud/insurance-bot-android.svg?branch=master)](https://travis-ci.org/IBM-Cloud/insurance-bot-android) | - |
 
 ## Deploy
 
@@ -34,6 +30,4 @@ See [License.txt](License.txt) for license information.
 
 [bot_github_url]: https://github.com/IBM-Cloud/insurance-bot
 [dashboard_github_url]: https://github.com/IBM-Cloud/insurance-bot-dashboard
-[ios_github_url]: https://github.com/IBM-Cloud/insurance-bot-ios
-[android_github_url]: https://github.com/IBM-Cloud/insurance-bot-android
 [toolchain_github_url]: https://github.com/IBM-Cloud/insurance-toolchain

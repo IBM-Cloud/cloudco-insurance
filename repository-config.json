@@ -3,8 +3,6 @@
     "IBM-Cloud/cloudco-insurance",
     "IBM-Cloud/insurance-bot",
     "IBM-Cloud/insurance-bot-dashboard",
-    "IBM-Cloud/insurance-bot-ios",
-    "IBM-Cloud/insurance-bot-android",
     "IBM-Cloud/insurance-toolchain"
   ],
   "milestones": [
